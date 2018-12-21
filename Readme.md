@@ -13,8 +13,6 @@
 - [Further Reading](#-further-reading)
 - [Screenshots](#-screenshots)
 - [Team](#-team)
-- [Mentor](#-mentor)
-- [Guidelines](#guidelines)
 - [License](#-license)
 
 
@@ -143,4 +141,4 @@ We will be using stock price dataset of OHLC format of the following companies t
 
 
 ## 📜 License
-This software is licensed under the [GNU General Public License v3.0]() 
+This software is licensed under the [MIT License](https://github.com/AI-International-Group-4/Stock-Price-Prediction/blob/master/LICENSE) 
