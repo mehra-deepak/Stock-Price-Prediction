@@ -140,6 +140,7 @@ We will be using stock price dataset of OHLC format of the following companies t
 2. [Manish Kumar Sahu](https://github.com/onehungrybird)
 3. [Pulkit Dhingra](https://github.com/pulkitd2699)
 4. [Ishan Pandey](https://github.com/hotonIP)
+5. [Harkirat Singh Arora](https://github.com/harkirat0509)
 
 
 ***
